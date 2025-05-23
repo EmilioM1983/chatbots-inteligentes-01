@@ -15,6 +15,10 @@ Para ejecutar el modelo Mistral, abre tu terminal y escribe:
 ```bash
 ollama run mistral
 
+## Instalar las dependencias desde `requirements.txt`
+
+```bash
+pip install -r requirements.txt
 
 ## Objetivos:
 1. Entender los casos de uso de los agentes de IA
@@ -65,7 +69,4 @@ Son sistemas inteligentes que pueden percibir, razonar y actuar para lograr un o
 - **faiss-cpu**: Almacena el contenido de documentos para una recuperación rápida.
 - **langchain_huggingface**: Utiliza embedding para la búsqueda de texto.
 
-## Instalar las dependencias desde `requirements.txt`
 
-```bash
-pip install -r requirements.txt
