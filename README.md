@@ -5,9 +5,16 @@ Se autoriza su uso únicamente con fines educativos.
 Ver [LICENSE](LICENSE) para más detalles.
 
 # Instalaciones necesarias
-[Ollama](https://ollama.com/)
-modelo: 
-    *En la terminal escribir: ollama run mistral
+
+### Ollama  
+Puedes descargar e instalar Ollama desde su sitio oficial: [https://ollama.com/](https://ollama.com/)
+
+### Modelo  
+Para ejecutar el modelo Mistral, abre tu terminal y escribe:
+
+```bash
+ollama run mistral
+
 
 ## Objetivos:
 1. Entender los casos de uso de los agentes de IA
