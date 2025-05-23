@@ -4,6 +4,10 @@ Este proyecto está protegido por copyright © 2025 Emilio Hernán Mayer - ehmso
 Se autoriza su uso únicamente con fines educativos.  
 Ver [LICENSE](LICENSE) para más detalles.
 
+# Instalaciones necesarias
+[Ollama](https://ollama.com/)
+modelo: 
+    *En la terminal escribir: ollama run mistral
 
 ## Objetivos:
 1. Entender los casos de uso de los agentes de IA
