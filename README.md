@@ -12,12 +12,12 @@ Puedes descargar e instalar Ollama desde su sitio oficial: [https://ollama.com/]
 ### Modelo  
 Para ejecutar el modelo Mistral, abre tu terminal y escribe:
 
-```bash
+
 ollama run mistral
 
-## Instalar las dependencias desde `requirements.txt`
+### Instalar las dependencias desde `requirements.txt`
 
-```bash
+
 pip install -r requirements.txt
 
 ## Objetivos:
